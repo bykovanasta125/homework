@@ -63,6 +63,6 @@ function checkProbabilityTheory(count) {
     console.log("Відсоток парних до не парних:", evenPercentage + "%" + ":" + oddPercentage + "%");
 }
 
-// Приклад виклику функції для генерації 1000 чисел
+// Приклад виклику функції для генерації 900 чисел
 checkProbabilityTheory(900);
 
